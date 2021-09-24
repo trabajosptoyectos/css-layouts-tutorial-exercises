@@ -36,3 +36,19 @@ nav,
 section {
 	padding: 100px 0;
 }
+
+nav {
+	width: 20%;
+	margin: 5px;
+}
+
+section {
+	width: 80%;
+	margin: 5px;
+}
+header {
+	margin: 5px;
+}
+.wrapper-body {
+	display: flex;
+}
